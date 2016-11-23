@@ -59,6 +59,7 @@
     "thenify": "https://registry.npmjs.org/thenify/-/thenify-3.2.1.tgz",
     "thenify-all": "^1.6.0",
     "varint": "5.0.0",
+    "web3": "^0.17.0-beta",
     "yargs": "^6.3.0"
   },
   "devDependencies": {
